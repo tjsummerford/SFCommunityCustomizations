@@ -7,5 +7,6 @@
     font-weight:normal !important;
 }
 
-.test {
+.siteforceServiceBody .cHeaderPanel {
+    height:300px;
 }
